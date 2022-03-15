@@ -5,6 +5,8 @@ const chosenImage = images[Math.floor(Math.random() * images.length)];
 
 //JS->HTML 로 요소 추가 
 const bgImage = document.createElement("img");
+bgImage.setAttribute("id", "bg");
+
 bgImage.src = `IMG/${chosenImage}`;
 
 document.body.appendChild(bgImage);
