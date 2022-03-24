@@ -9,6 +9,7 @@
     height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
+    opacity: 0.6;
 }
 #background-cover{
     margin: 0 auto;
@@ -72,11 +73,12 @@ input[type=text]{
 }
 #quote{
     position: absolute;
-    bottom: 20%;
+    bottom: 10%;
     left: 50%;
     z-index: 2;
     transform: translate(-50%,-50%);
-    background-color: blue;
+    font-size: 18px;
+    font-weight: 800;
 }
 #weather{
     position: absolute;

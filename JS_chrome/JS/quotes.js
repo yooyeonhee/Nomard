@@ -1,31 +1,31 @@
 const quotes = [
     {
-        quote: "I never dreamed about success, I worked for it.\n",
-        author: "-Estee Lauder",
+        quote: "I never dreamed about success, I worked for it.",
+        author: "   -Estee Lauder",
     },
         {
-        quote: "Do not try to be original, just try to be good.\n",
-        author: "-Paul Rand",
+        quote: "Do not try to be original, just try to be good.",
+        author: "   -Paul Rand",
     },
     {
-        quote: "Do not be afraid to give up the good to go for the great.\n",
-        author: "-John D.Rockefeller",
+        quote: "Do not be afraid to give up the good to go for the great.",
+        author: "   -John D.Rockefeller",
     },
     {
-        quote: "The greatest weakness of all weaknesses is to fear too much to appear weak.\n",
-        author: "-Bossuet",
+        quote: "The greatest weakness of all weaknesses is to fear too much to appear weak.",
+        author: "   -Bossuet",
     },
     {
-        quote: "A man who doesn't trust himself can never truly trust anyone else.\n",
-        author: "-Cardinal de Retz",
+        quote: "A man who doesn't trust himself can never truly trust anyone else.",
+        author: "   -Cardinal de Retz",
     },
     {
-        quote: "Happiness depends upon ourselves.\n",
-        author: "-Aristotle",
+        quote: "Happiness depends upon ourselves.",
+        author: "   Aristotle",
     },
     {
-        quote: "The most wasted of all days is one without laughter.\n",
-        author: "-E. E. Cummings",
+        quote: "The most wasted of all days is one without laughter.",
+        author: "   -E. E. Cummings",
     },
 
 ];
